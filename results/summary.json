@@ -1,0 +1,32 @@
+{
+  "rows": 70000,
+  "columns": 16,
+  "missing_total": 0,
+  "disease_0": 35021,
+  "disease_1": 34979,
+  "countries": [
+    "India",
+    "Indonesia",
+    "Malaysia",
+    "Singapore"
+  ],
+  "occupations": [
+    "Accountant",
+    "Architect",
+    "Chef",
+    "Doctor",
+    "Engineer",
+    "Lawyer",
+    "Nurse",
+    "Others",
+    "Teacher"
+  ],
+  "metrics": {
+    "accuracy": 0.7312142857142857,
+    "precision": 0.7514387929693576,
+    "recall": 0.6905374499714122,
+    "f1": 0.7197020484171323,
+    "roc_auc": 0.7971170255892328
+  },
+  "model": "Random Forest"
+}
